@@ -72,13 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-#################################
-# Unreal Engine Generated Files #
-#################################
-/[Bb]uild
-/[Bb]uilds
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
